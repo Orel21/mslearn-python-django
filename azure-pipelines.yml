@@ -11,7 +11,7 @@ variables:
   azureServiceConnectionId: '093caf44-fa64-4f5f-8c68-f8f409047242'
 
   # Web app name
-  webAppName: 'python-cicd-11886'
+  webAppName: 'python-cicd-29377'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
